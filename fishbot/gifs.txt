@@ -1,0 +1,48 @@
+# Reaction gifs, one per line: <category> <direct image url>
+# Lines starting with # are ignored. Edit freely, the bot reads this file on startup.
+#
+# Categories used by the bot:
+#   cast miss escape catch legend money level boss victory trade lottery
+#   (daily, sell, auction, bite and win fall back to a close neighbour)
+#
+# If you set GIPHY_API_KEY in .env the bot searches GIPHY by itself and only uses
+# this list when that lookup has nothing. A free key: https://developers.giphy.com
+#
+# These starter links were picked by page title, not by eye. Open a few and swap out
+# anything that doesn't fit.
+
+cast    https://media.giphy.com/media/5OzuVgj4GZudjMPXcy/giphy.gif
+cast    https://media.giphy.com/media/GrpxMcJRWrZhfmRNkC/giphy.gif
+cast    https://media.giphy.com/media/3o6Zt4JEj1NkJPPTUs/giphy.gif
+cast    https://media.giphy.com/media/5JEgqA28kMYfK/giphy.gif
+cast    https://media.giphy.com/media/P0YdWCbsqrnzPjtmM5/giphy.gif
+
+miss    https://media.giphy.com/media/OsfRSG5QcGO8o/giphy.gif
+miss    https://media.giphy.com/media/5hd6M4GGWvuKYBJRGf/giphy.gif
+miss    https://media.giphy.com/media/M8YDGn9uD5NoPvnAYN/giphy.gif
+
+escape  https://media.giphy.com/media/P927RcEq6kldf4HrT9/giphy.gif
+escape  https://media.giphy.com/media/OsfRSG5QcGO8o/giphy.gif
+escape  https://media.giphy.com/media/5hd6M4GGWvuKYBJRGf/giphy.gif
+
+catch   https://media.giphy.com/media/gyPYEgX0G2UEXcSOCU/giphy.gif
+catch   https://media.giphy.com/media/W3gUpH0tFcweuFkavf/giphy.gif
+catch   https://media.giphy.com/media/5BeSWPwu6Kpo8W0lAG/giphy.gif
+
+legend  https://media.giphy.com/media/vgEe6Vws6pnEDD66GV/giphy.gif
+legend  https://media.giphy.com/media/MK2lP4UdTSEOqO6Q09/giphy.gif
+
+money   https://media.giphy.com/media/12Eo7WogCAoj84/giphy.gif
+money   https://media.giphy.com/media/BfFFYPSVYr9UR6EtEL/giphy.gif
+
+boss    https://media.giphy.com/media/BUr2bF47czHJTpEuZs/giphy.gif
+boss    https://media.giphy.com/media/miR1HIIu4VCE0/giphy.gif
+boss    https://media.giphy.com/media/soDqW21ZbC1oc/giphy.gif
+boss    https://media.giphy.com/media/AMJ4TNpjm5KtZcQSor/giphy.gif
+boss    https://media.giphy.com/media/HnkuEwXHGjMiphCuDZ/giphy.gif
+
+victory https://media.giphy.com/media/9wcu6Tr1ecmxa/giphy.gif
+victory https://media.giphy.com/media/uTuLngvL9p0Xe/giphy.gif
+
+trade   https://media.giphy.com/media/LTRZAX3vBuWtPtmKrL/giphy.gif
+trade   https://media.giphy.com/media/xqWscFVVGtd6G0Iucb/giphy.gif
